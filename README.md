@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Divyanshu Gupta 
-here to learn and grow with all of you
+
 
 <!---
 guptadj/guptadj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
